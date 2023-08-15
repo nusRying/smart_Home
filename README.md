@@ -7,7 +7,7 @@ Follow the steps below to get a local copy of the project up and running on your
 ---------
 ### 1. Cloning
 ```
-git clone https://github.com/saadz-khan/smart-home-automation.git
+https://github.com/nusRying/smart_Home
 ```
 Alternatively you can download the ZIP from the top of this page.
 
